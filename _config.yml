@@ -17,8 +17,8 @@ linkedin: 'princeraj'
 # instagram: 'myinsta'
 # pinterest: 'mypinterest'
 # youtube: 'myyoutube'
-github-user: 'princensit'
-# gitlab-user: ''
+github: 'princensit'
+# gitlab: ''
 # codepen: ''
 # steam: ''
 # soundcloud: ''
@@ -34,7 +34,7 @@ github-user: 'princensit'
 email: 'prince@princeraj.dev'
 # messenger: 'myfbchat'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [github, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
 
 # Advanced settings
 plugins:
@@ -88,11 +88,11 @@ social-links:
   - name: pinterest
     url-pattern: pinterest.com/__USERNAME__
 
-  - name: github-user
+  - name: github
     url-pattern: github.com/__USERNAME__
     icon-class: fab fa-2x fa-github
 
-  - name: gitlab-user
+  - name: gitlab
     url-pattern: gitlab.com/__USERNAME__
     icon-class: fab fa-2x fa-gitlab
 
