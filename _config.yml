@@ -157,3 +157,5 @@ social-links:
     url-pattern: '__USERNAME__'
     url-scheme: 'mailto:'
     icon-class: fas fa-2x fa-envelope
+
+theme: jekyll-theme-leap-day
