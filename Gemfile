@@ -1,12 +1,10 @@
 source "https://rubygems.org"
 
-# This is the default theme for new Jekyll sites.
-gem "minimal-mistakes-jekyll", "~> 4.21.0"
-
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "github-pages"
+  gem "jekyll-include-cache"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
