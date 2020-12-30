@@ -18,7 +18,7 @@ name                     : &name "Prince Raj" # &name is a YAML anchor which can
 description              : &description "Tech enthusiast, coder, explorer, researcher"
 url                      : ""
 baseurl                  : ""
-repository               : # GitHub username/repo-name
+repository               : "princensit/princensit.github.io" # GitHub username/repo-name
 teaser                   : "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title

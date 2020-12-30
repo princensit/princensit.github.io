@@ -15,6 +15,9 @@ Gemfile.lock
 # macOS
 .DS_Store
 
+# Jetbrains
+*.iml
+
 # Jekyll generated files
 .jekyll-cache
 .jekyll-metadata
