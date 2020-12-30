@@ -1,9 +1,23 @@
-_site
-.sass-cache
+# Vim
+*~
+*.sw[p_]
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Ruby Gem
+*.gem
+.bundle
+Gemfile.lock
+**/vendor/bundle
+
+# macOS
+.DS_Store
+
+# Jekyll generated files
 .jekyll-cache
 .jekyll-metadata
-
-Gemfile.lock
-*.gem
-
-.DS_Store
+.sass-cache
+_asset_bundler_cache
+_site
